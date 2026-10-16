@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Party Platform
 
 Starter repository for a party discovery and RSVP platform.
@@ -30,3 +31,6 @@ mvn spring-boot:run
 ```
 
 The initial security configuration permits requests while the API has no protected endpoints. Configure Supabase JWT validation before adding authenticated features.
+=======
+# palroam
+>>>>>>> origin/main
