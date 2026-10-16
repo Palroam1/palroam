@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: party-platform-api
+
+server:
+  port: ${BACKEND_PORT:8080}
+
+app:
+  database-url: ${DATABASE_URL:}
+  supabase-jwt-issuer: ${SUPABASE_JWT_ISSUER:}
